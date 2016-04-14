@@ -1,10 +1,12 @@
 {
   "name": "socket-snake",
   "version": "0.0.1",
-` "scripts": {
+  "scripts": {
     "build-js": "babel public/es6 -d public/es5"
   },
   "dependencies": {
-    "babel-cli": "^6.7.5"
+    "babel-cli": "^6.7.5",
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
   }
 }
