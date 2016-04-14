@@ -1,0 +1,38 @@
+/* line 1, C:/Users/ALEX/Desktop/socket-snake/public/css/application.scss */
+#game {
+  width: 100%;
+  color: white;
+  background-color: #00BCD4;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 100px; }
+  /* line 8, C:/Users/ALEX/Desktop/socket-snake/public/css/application.scss */
+  #game canvas {
+    border: 1px solid white;
+    background-color: white; }
+
+/* line 20, C:/Users/ALEX/Desktop/socket-snake/public/css/application.scss */
+#about {
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: center; }
+  /* line 26, C:/Users/ALEX/Desktop/socket-snake/public/css/application.scss */
+  #about ul {
+    margin: 0 auto;
+    max-width: 800px;
+    list-style: none; }
+  /* line 34, C:/Users/ALEX/Desktop/socket-snake/public/css/application.scss */
+  #about li {
+    text-align: center; }
+  /* line 40, C:/Users/ALEX/Desktop/socket-snake/public/css/application.scss */
+  #about i {
+    font-size: 5rem; }
+
+/* line 48, C:/Users/ALEX/Desktop/socket-snake/public/css/application.scss */
+#credit {
+  color: white;
+  background-color: #37474F;
+  padding-top: 50px;
+  padding-bottom: 50px; }
+
+/*# sourceMappingURL=application.css.map */
